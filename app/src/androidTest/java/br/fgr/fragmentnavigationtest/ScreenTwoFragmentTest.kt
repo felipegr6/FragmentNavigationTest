@@ -1,0 +1,3 @@
+package br.fgr.fragmentnavigationtest
+
+class ScreenTwoFragmentTest
